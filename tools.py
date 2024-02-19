@@ -5,16 +5,11 @@ Created on 15/02/2024
 useful functions to analyse air quality dataset
 """
 import pandas as pd
-import os
-import geopandas as gpd
 import numpy as np
-import seaborn as sns
 from typing import Tuple
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
-from sklearn.ensemble import ExtraTreesClassifier
-from sklearn.preprocessing import MinMaxScaler
 
 
 def best_nb_cluster(
