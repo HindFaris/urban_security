@@ -12,10 +12,10 @@ This branch provides an implementation of Facebook Prophet to visualise, analyse
 
 This branch study correlations between criminality and socioeconomic data for the year 2012 and the years 2012-2016 (where we have the most data).
 
-## chomage_police_analysis
+## Branch chomage_police_analysis
 
 We examine the influence of socio-economic factors on urban safety. In the 'Police' notebook, we focus solely on 2012, analysing the number of police officers and their impact on crime in various departments. As for the 'Unemployment' notebook, we study the evolution of unemployment over time and its impact on crime in the various french departments.
 
-## time_series_visualisation
+## Branch time_series_visualisation
 
 The branch specializes in analyzing and visualizing crimes and misdemeanours trends over time, offering insights across multiple years with monthly breakdowns. In the notebook by default, the monthly analysis focuses on the year 1999, serving as a sample; however, this variable can be easily adjusted for customized analyses.
